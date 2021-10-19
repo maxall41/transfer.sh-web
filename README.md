@@ -2,6 +2,10 @@
 
 This repository contains the web frontend for [transfer.sh](https://github.com/dutchcoders/transfer.sh/).
 
+## What is this fork for?
+
+This is just a fork of the frontend of [transfer.sh](https://github.com/dutchcoders/transfer.sh/) because im running my US mirror behind a proxy so to show the correct URL i needed to fork the frontend and make a few changes...
+
 
 ## How to use it 
 
